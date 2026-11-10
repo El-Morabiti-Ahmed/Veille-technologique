@@ -1,0 +1,1 @@
+Créez une présentation MARP sur « TypeScript », en expliquant ses apports par rapport à JavaScript et pourquoi nous devrions l'utiliser. Approfondissez le sujet tout en respectant les règles définies dans ../.agents/RULES.md.
